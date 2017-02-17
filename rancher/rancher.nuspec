@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>rancher</id>
+    <version>1.3.0</version>
+    <title>rancher</title>
+    <authors>Heinz Mayer</authors>
+    <owners>Heinz Mayer</owners>
+    <licenseUrl>http://www.gnu.org/licenses/gpl-2.0.html</licenseUrl>
+    <projectUrl>https://github.com/suedschwede/chocolatey</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Rancher Virtualbox Image</description>
+    <summary>rancher</summary>
+    <tags>rancher</tags>
+  </metadata>
+</package>
